@@ -1,5 +1,5 @@
 ## Hi 👋![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub User's stars](https://img.shields.io/github/stars/ireedui2004?style=social)
+
 <!--
 **ireedui2004/ireedui2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
