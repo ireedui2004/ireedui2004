@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋![GitHub followers](https://img.shields.io/github/followers/ireedui2004?style=social)
 
 <!--
 **ireedui2004/ireedui2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
